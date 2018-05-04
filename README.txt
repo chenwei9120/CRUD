@@ -1,7 +1,7 @@
 ﻿1 搜索框左侧为字段的下拉菜单，可以选择指定的字段进行查询
 2 按id或者loginname进行查询后，表格内的数据会进行排序
 3 密码使用sha1进行加密
-4 系统使用sboot创建，使用了maven
+4 系统使用srping boot创建，使用了spring spring mvc。
 5 前端使用jquery和jquery ui
 
 
